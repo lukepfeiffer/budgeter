@@ -11,6 +11,7 @@ gem 'jquery-rails'
 gem 'neat'
 gem 'pg'
 gem 'rails', '4.2.2'
+gem 'react-rails'
 gem 'sass-rails', '~> 5.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'uglifier', '>= 1.3.0'
