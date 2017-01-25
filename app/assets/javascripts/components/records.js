@@ -23,7 +23,7 @@ this.Records = React.createClass({
       ),
 
       React.DOM.table(
-        { className: 'record-table' },
+        { className: 'tables' },
 
         React.DOM.thead(null,
           React.DOM.tr(null,
